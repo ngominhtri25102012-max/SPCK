@@ -1,0 +1,104 @@
+.dn-from{
+  display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+a {
+  color: rgb(255, 255, 255);          
+  text-decoration: none;
+}
+
+.dn_dki_form{
+    background-color: rgba(0, 0, 0, 0.7);
+    width:35%;
+    padding: 30px 20px; 
+    border-radius: 10px;
+}
+
+.bo_tron-15{
+    border-radius: 15px;
+    border: none;
+}
+
+.giua{
+    text-align: center;
+}
+
+.dn{
+     margin-top: -20px; 
+     text-align: center;
+     color:azure
+}
+
+.bo_tron-20{
+    border-radius: 20px;
+}
+
+
+label{
+    display: block;
+    margin: 5px 0;
+}
+
+input{
+    width: 100%;
+    box-sizing  : border-box ;
+}
+
+.nut{
+    background-color: #4592AF;  
+    padding: 15px ;
+}
+
+.nhap{
+    padding: 15px 10px;
+    background-color: #E8E2E2;
+}
+
+body {
+  background-image: url("../img/ChatGPT\ Image\ 20_14_26\ 20\ thg\ 6\,\ 20252.0.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+}
+
+p{
+    color:honeydew;
+}
+
+.dn{
+    color:azure
+}
+
+.form-item{
+    position: relative;
+}
+
+.form-item i{
+    position: absolute;
+    /* background-color: black; */
+    top: 10px;
+    left: 5px;
+    width: 10%;
+    height: 100%;
+    font-size: 30px;
+    color: #888;
+}
+
+.inp{
+    padding-left: 10%;
+}
+.inp::placeholder{
+    color: #888;
+}
+
+.nut:hover{
+    background-color: #D9EAFD;
+}
+
+.nut{
+    font-size: 25px;
+}

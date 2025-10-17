@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name": "Minecraft",
+        "the_loai": "pay-to-play",
+        "Gia": "26.95 USD",
+        "thiet_bi": "PC, Mobile (PE)",
+        "gioi_thieu": "tựa game sandbox nổi tiếng cho phép bạn xây dựng và sinh tồn trong thế giới mở không giới hạn.",
+        "img": "./img/logo_minecraft.png",
+        "comment": [
+            {
+                "user": {
+                    "avatar": "./...",
+                    "name": ".."
+                },
+                "content": "...",
+                "countLike": 12,
+                "imgContent": null
+
+            }
+        ]
+    },  
+    {
+        "id": 2,
+        "name": "Roblox",
+        "the_loai": "free-to-play",
+        "Gia": "Miễn phí",
+        "thiet_bi": "PC, Mobile, Console",
+        "gioi_thieu": "Nền tảng game trực tuyến cho phép người chơi tạo và khám phá hàng triệu thế giới do cộng đồng sáng tạo.",
+        "img": "./img/roblox.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Grand Theft Auto V",
+        "the_loai": "pay-to-play",
+        "Gia": "29.99 USD",
+        "thiet_bi": "PC, Console",
+        "gioi_thieu": "Tựa game hành động thế giới mở nổi tiếng, nơi người chơi có thể tự do khám phá, thực hiện nhiệm vụ và lái xe trong thành phố Los Santos.",
+        "img": "./img/gtaVI.png"
+    },
+    {
+        "id": 4,
+        "name": "Mini World: CREATA",
+        "the_loai": "free-to-play",
+        "Gia": "Miễn phí",
+        "thiet_bi": "PC, Mobile",
+        "gioi_thieu": "Tựa game sandbox sáng tạo cho phép người chơi xây dựng, sinh tồn và phiêu lưu trong thế giới mở đầy màu sắc.",
+        "img": "./img/mini.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Apex Legends",
+        "the_loai": "free-to-play",
+        "Gia": "Miễn phí",
+        "thiet_bi": "PC, Console, Mobile",
+        "gioi_thieu": "Game bắn súng battle royale tốc độ cao, kết hợp kỹ năng nhân vật và hành động đồng đội.",
+        "img": "./img/Apex_legends_cover.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Elden Ring",
+        "the_loai": "pay-to-play",
+        "Gia": "59.99 USD",
+        "thiet_bi": "PC, Console",
+        "gioi_thieu": "Game hành động nhập vai thế giới mở nổi tiếng với độ khó và thế giới thần thoại sâu sắc.",
+        "img": "./img/tải xuốn1222.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Valorant",
+        "the_loai": "free-to-play",
+        "Gia": "Miễn phí",
+        "thiet_bi": "PC",
+        "gioi_thieu": "Game bắn súng chiến thuật kết hợp kỹ năng nhân vật, cạnh tranh 5v5 do Riot Games phát triển.",
+        "img": "./img/logo_valorant.png"
+    },
+    {
+        "id": 8,
+        "name": "Red Dead Redemption 2",
+        "the_loai": "pay-to-play",
+        "Gia": "59.99 USD",
+        "thiet_bi": "PC, Console",
+        "gioi_thieu": "Phiêu lưu miền Tây cực kỳ chi tiết và chân thực, cốt truyện cảm xúc và thế giới mở rộng lớn.",
+        "img": "./img/logo_rdr2.png"
+    },
+    {
+        "id": 9,
+        "name": "Genshin Impact",
+        "the_loai": "free-to-play",
+        "Gia": "Miễn phí",
+        "thiet_bi": "PC, Mobile, Console",
+        "gioi_thieu": "Game nhập vai hành động thế giới mở phong cách anime, khám phá và chiến đấu cùng đồng đội.",
+        "img": "./img/logo_genshin.png"
+    },
+    {
+        "id": 10,
+        "name": "Cyberpunk 2077",
+        "the_loai": "pay-to-play",
+        "Gia": "59.99 USD",
+        "thiet_bi": "PC, Console",
+        "gioi_thieu": "Game nhập vai thế giới mở tương lai, với cốt truyện sâu sắc và gameplay phong phú tại Night City.",
+        "img": "./img/logo_cyberpunk2077.png"
+    },
+    {
+        "id": 11,
+        "name": "Fortnite",
+        "the_loai": "free-to-play",
+        "Gia": "Miễn phí",
+        "thiet_bi": "PC, Console, Mobile",
+        "gioi_thieu": "Game battle royale nổi tiếng với phong cách hoạt hình, xây dựng công trình và chiến đấu sinh tồn.",
+        "img": "./img/logo_fortnite.png"
+    },
+    {
+        "id": 12,
+        "name": "Hogwarts Legacy",
+        "the_loai": "pay-to-play",
+        "Gia": "59.99 USD",
+        "thiet_bi": "PC, Console",
+        "gioi_thieu": "Nhập vai phù thủy trẻ trong thế giới Harry Potter, khám phá học viện Hogwarts và phép thuật huyền bí.",
+        "img": "./img/logo_hogwarts.png"
+    }
+]
+

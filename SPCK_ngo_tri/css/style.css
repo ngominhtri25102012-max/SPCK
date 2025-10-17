@@ -1,0 +1,111 @@
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.color_red{
+    color: red ;
+}
+
+/* Header */
+.logo {
+    height: 60px;
+    border-radius: 50%;
+}
+
+.gameinfohub, .game_hot, .chinhsach {
+    text-align: center;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+.navbar {
+    background-color: #343a40 !important;
+}
+
+.navbar-brand, .nav-link, .btn-outline-success {
+    color: white !important;
+}
+
+/* Carousel */
+.home {
+    height: 80vh;
+}
+
+.carousel,
+.carousel-inner,
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-caption h5, .carousel-caption p {
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Cards */
+.the_game_khu_home {
+    height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.khung_the_home {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    border-radius: 15px;
+    margin-bottom: 30px;
+    transition: transform 0.3s;
+}
+
+.khung_the_home:hover {
+    transform: scale(1.03);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.xem_chi_tiet {
+    margin-top: 10px;
+    width: 100%;
+}
+
+/* Chính sách */
+.chinhsachboc {
+    background-color: #e9ecef;
+    padding: 40px 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.chinhsachboc .btn {
+    margin: 10px;
+}
+
+.no-copy {
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+#the_game {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 cột mỗi hàng */
+  gap: 20px; /* khoảng cách giữa các thẻ */
+  margin-top: 20px;
+}
+
+.khung_the_home {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.khung_the_home:hover {
+  transform: scale(1.03);
+}

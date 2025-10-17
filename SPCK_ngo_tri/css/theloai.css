@@ -1,0 +1,31 @@
+.theloai {
+  padding: 0 15px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.div_pepc {
+  padding: 0 15px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.pc-pe,
+.the_loai {
+  width: 220px;
+  font-size: 16px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.pc-pe:hover,
+.the_loai:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
